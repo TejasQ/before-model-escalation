@@ -17,7 +17,7 @@ The paper retains failed controller transfer, negative history results and faile
 
 ## Read and verify
 
-Evidence-v1 contains the earlier v11 manuscript PDF/source and 8 frozen evidence ZIPs. Manuscript-v12 changes only4 appendix availability/license passages, linking the public evidence. All scientific results, tables, figure and references are unchanged; its2 file hashes are in `manuscript-v12.json`. The commands below deliberately verify the immutable evidence-v1 snapshot. Download the files with hash verification, then check the retained evidence:
+Evidence-v1 contains the earlier v11 manuscript PDF/source and 8 frozen evidence ZIPs. Manuscript-v12 changes only 4 appendix availability/license passages, linking the public evidence. All scientific results, tables, figure and references are unchanged; its 2 file hashes are in `manuscript-v12.json`. The commands below deliberately verify the immutable evidence-v1 snapshot. Download the files with hash verification, then check the retained evidence:
 
 ```sh
 python3 download_assets.py --assets assets
