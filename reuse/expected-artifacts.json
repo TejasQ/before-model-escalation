@@ -1,0 +1,18 @@
+{
+  "instruction-control-evidence.zip": {
+    "bytes": 8712719,
+    "sha256": "a2cdc75ce7437e695e6b8bad4227a35a188905bc2d01c70569b4c2e25ee0f1e4"
+  },
+  "qwen-instruction-control-evidence.zip": {
+    "bytes": 8193373,
+    "sha256": "51daf770812d5c711ecb6d46b1efb5fbb6ad3c3fbdfe7c9444734ec1734d0f31"
+  },
+  "released-agent-loop-evidence.zip": {
+    "bytes": 2367825,
+    "sha256": "cafb883f3ce29d5eddbe86b95c0516470dba1fdb166321908be53e66ccc3a456"
+  },
+  "browser-runtime-repair-evidence.zip": {
+    "bytes": 15569331,
+    "sha256": "d1c2ebe0103bfae296ead9933ccd710d43a7fee52e01261a85914b6b567e6555"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "32238c5c6759b589ea768661b6eb0fcb42449b74d57cdf09928743f2e1eb748d": {
+    "copy": "third_party/32238c5c6759-LICENSE",
+    "originalLocations": [
+      "output/earlier-study-evidence.zip!earlier-study-evidence/results/independent-websites-01/source/vendor/todomvc/LICENSE"
+    ]
+  },
+  "9567df759707e1d2a0bfd7975af67e2204cfb1f40f31de1c5a62b7663bc1eeae": {
+    "copy": "third_party/9567df759707-LICENSE",
+    "originalLocations": [
+      "output/earlier-study-evidence.zip!earlier-study-evidence/results/independent-websites-01/source/vendor/saucedemo/LICENSE"
+    ]
+  },
+  "b192c58991e8ff585cc574615d40e74185404d4b96c1109d423071ab1367344b": {
+    "copy": "third_party/b192c58991e8-LICENSE",
+    "originalLocations": [
+      "output/instruction-control-evidence.zip!instruction-control-evidence/replication/owner-followup-smoke-01/source/benchmark-vendor/browsergym-released/LICENSE",
+      "output/instruction-control-evidence.zip!instruction-control-evidence/replication/mistral-control-smoke-01/source/benchmark-vendor/browsergym-released/LICENSE",
+      "output/instruction-control-evidence.zip!instruction-control-evidence/replication/mistral-control-main-01/source/benchmark-vendor/browsergym-released/LICENSE",
+      "output/qwen-instruction-control-evidence.zip!qwen-instruction-control-evidence/replication/qwen-control-smoke-01/source/benchmark-vendor/browsergym-released/LICENSE",
+      "output/qwen-instruction-control-evidence.zip!qwen-instruction-control-evidence/replication/qwen-control-main-01/source/benchmark-vendor/browsergym-released/LICENSE",
+      "output/released-interface-conformance-evidence.zip!released-interface-evidence/audits/released-interface-02/NOTICE.upstream",
+      "output/released-interface-conformance-evidence.zip!released-interface-evidence/audits/released-interface-03/NOTICE.upstream",
+      "output/released-consumer-boundary-evidence.zip!consumer-boundary-evidence/reviews/exporter-consumers-01/agentlab-0.4.2-py3-none-any.whl!agentlab-0.4.2.dist-info/licenses/LICENSE",
+      "output/released-consumer-boundary-evidence.zip!consumer-boundary-evidence/audits/released-interface-02/NOTICE.upstream",
+      "output/released-consumer-boundary-evidence.zip!consumer-boundary-evidence/reviews/exporter-consumers-01/AgentLab/source/LICENSE",
+      "output/released-consumer-boundary-evidence.zip!consumer-boundary-evidence/reviews/exporter-consumers-01/BrowserGym/source/LICENSE",
+      "output/released-agent-loop-evidence.zip!released-agent-loop-evidence/reviews/exporter-consumers-01/agentlab-0.4.2-py3-none-any.whl!agentlab-0.4.2.dist-info/licenses/LICENSE",
+      "output/browser-runtime-repair-evidence.zip!browser-runtime-repair-evidence/reviews/exporter-consumers-01/agentlab-0.4.2-py3-none-any.whl!agentlab-0.4.2.dist-info/licenses/LICENSE",
+      "output/allowance-sensitivity-evidence.zip!benchmark-vendor/browsergym-released/LICENSE",
+      "output/earlier-study-evidence.zip!earlier-study-evidence/results/miniwob-main-01/source/benchmark-vendor/browsergym-released/LICENSE",
+      "output/earlier-study-evidence.zip!earlier-study-evidence/results/rci-main-01/source/benchmark-vendor/browsergym-released/LICENSE",
+      "output/earlier-study-evidence.zip!earlier-study-evidence/results/action-contract-main-01/source/benchmark-vendor/browsergym-released/LICENSE",
+      "output/earlier-study-evidence.zip!earlier-study-evidence/results/history-main-01/source/benchmark-vendor/browsergym-released/LICENSE",
+      "output/earlier-study-evidence.zip!earlier-study-evidence/results/context-main-01/source/benchmark-vendor/browsergym-released/LICENSE"
+    ]
+  },
+  "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30": {
+    "copy": "third_party/cfc7749b96f6-LICENSE.upstream",
+    "originalLocations": [
+      "output/released-interface-conformance-evidence.zip!released-interface-evidence/audits/released-interface-02/LICENSE.upstream",
+      "output/released-interface-conformance-evidence.zip!released-interface-evidence/audits/released-interface-03/LICENSE.upstream",
+      "output/released-consumer-boundary-evidence.zip!consumer-boundary-evidence/audits/released-interface-02/LICENSE.upstream"
+    ]
+  },
+  "f6ee51963aec7cf75eb19b320f6b0cffb26403efcca73124dc0bb8d17d64f10c": {
+    "copy": "third_party/f6ee51963aec-LICENSE",
+    "originalLocations": [
+      "output/earlier-study-evidence.zip!earlier-study-evidence/results/independent-websites-01/source/vendor/green-kart/LICENSE"
+    ]
+  },
+  "fd6529fb8f648d4130fd969e3d7fc740c9992a0bd94a1998f52555a873311511": {
+    "copy": "third_party/fd6529fb8f64-LICENSE",
+    "originalLocations": [
+      "output/instruction-control-evidence.zip!instruction-control-evidence/replication/owner-followup-smoke-01/source/benchmark-vendor/miniwob/LICENSE",
+      "output/instruction-control-evidence.zip!instruction-control-evidence/replication/mistral-control-smoke-01/source/benchmark-vendor/miniwob/LICENSE",
+      "output/instruction-control-evidence.zip!instruction-control-evidence/replication/mistral-control-main-01/source/benchmark-vendor/miniwob/LICENSE",
+      "output/qwen-instruction-control-evidence.zip!qwen-instruction-control-evidence/replication/qwen-control-smoke-01/source/benchmark-vendor/miniwob/LICENSE",
+      "output/qwen-instruction-control-evidence.zip!qwen-instruction-control-evidence/replication/qwen-control-main-01/source/benchmark-vendor/miniwob/LICENSE",
+      "output/allowance-sensitivity-evidence.zip!benchmark-vendor/miniwob/LICENSE",
+      "output/earlier-study-evidence.zip!earlier-study-evidence/results/miniwob-main-01/source/benchmark-vendor/miniwob/LICENSE",
+      "output/earlier-study-evidence.zip!earlier-study-evidence/results/rci-main-01/source/benchmark-vendor/miniwob/LICENSE",
+      "output/earlier-study-evidence.zip!earlier-study-evidence/results/action-contract-main-01/source/benchmark-vendor/miniwob/LICENSE",
+      "output/earlier-study-evidence.zip!earlier-study-evidence/results/history-main-01/source/benchmark-vendor/miniwob/LICENSE",
+      "output/earlier-study-evidence.zip!earlier-study-evidence/results/context-main-01/source/benchmark-vendor/miniwob/LICENSE"
+    ]
+  },
+  "ffa8b2a603abd9ede8eb686e87c4a433110f1be47d7cc98df4977b7fb2ee72fc": {
+    "copy": "third_party/ffa8b2a603ab-LICENSE",
+    "originalLocations": [
+      "output/earlier-study-evidence.zip!earlier-study-evidence/results/rci-main-01/source/baseline-vendor/rci/LICENSE"
+    ]
+  }
+}

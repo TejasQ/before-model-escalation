@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use these artifacts, cite the accompanying manuscript using preferred-citation. Its arXiv announcement is pending."
+type: software
+title: "Evidence for Before Model Escalation: Contracts, Instructions, and Outcomes in Browser Agents"
+version: "evidence-v1"
+repository-code: "https://github.com/TejasQ/before-model-escalation"
+url: "https://github.com/TejasQ/before-model-escalation/releases/tag/evidence-v1"
+license: MIT
+authors:
+  - family-names: "Kumar"
+    given-names: "Tejas"
+keywords:
+  - browser agents
+  - tool calling
+  - JSON Schema
+  - instruction controls
+  - execution outcomes
+  - reproducibility
+preferred-citation:
+  type: unpublished
+  title: "Before Model Escalation: Contracts, Instructions, and Outcomes in Browser Agents"
+  authors:
+    - family-names: "Kumar"
+      given-names: "Tejas"
+  year: 2026
+  notes: "Research manuscript, revision v11, submitted to arXiv. Public announcement and identifier pending."
