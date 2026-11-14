@@ -23,4 +23,5 @@ preferred-citation:
     - family-names: "Kumar"
       given-names: "Tejas"
   year: 2026
-  notes: "Research manuscript, revision v11, submitted to arXiv. Public announcement and identifier pending."
+  notes: "Research manuscript, revision v12, submitted to arXiv. Public announcement and identifier pending."
+  url: "https://github.com/TejasQ/before-model-escalation/releases/download/manuscript-v12/browser-agent-evaluation.pdf"

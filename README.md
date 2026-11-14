@@ -2,7 +2,7 @@
 
 Evidence for **Before Model Escalation: Contracts, Instructions, and Outcomes in Browser Agents**, by Tejas Kumar.
 
-**Evidence release v1.** [Download the paper and evidence](https://github.com/TejasQ/before-model-escalation/releases/tag/evidence-v1). The manuscript was submitted to arXiv on November 14, 2026; public announcement and an arXiv identifier are pending. Original code is MIT licensed. Original data, documentation and the paper are CC BY 4.0. [License scope and third-party exceptions](LICENSE-SCOPE.md).
+**Current manuscript: v12.** [Read the paper](https://github.com/TejasQ/before-model-escalation/releases/download/manuscript-v12/browser-agent-evaluation.pdf) or [download its source](https://github.com/TejasQ/before-model-escalation/releases/download/manuscript-v12/browser-agent-paper-source.zip). [Evidence release v1](https://github.com/TejasQ/before-model-escalation/releases/tag/evidence-v1) remains the fixed experimental archive. The manuscript was submitted to arXiv on November 14, 2026; public announcement and an arXiv identifier are pending. Original code is MIT licensed. Original data, documentation and the paper are CC BY 4.0. [License scope and third-party exceptions](LICENSE-SCOPE.md).
 
 ## What this work contributes
 
@@ -17,7 +17,7 @@ The paper retains failed controller transfer, negative history results and faile
 
 ## Read and verify
 
-The release assets contain the 22-page manuscript PDF, its source ZIP, and 8 frozen evidence ZIPs. Download the files with hash verification, then check the retained evidence:
+Evidence-v1 contains the earlier v11 manuscript PDF/source and 8 frozen evidence ZIPs. Manuscript-v12 changes only4 appendix availability/license passages, linking the public evidence. All scientific results, tables, figure and references are unchanged; its2 file hashes are in `manuscript-v12.json`. The commands below deliberately verify the immutable evidence-v1 snapshot. Download the files with hash verification, then check the retained evidence:
 
 ```sh
 python3 download_assets.py --assets assets
@@ -30,7 +30,7 @@ For the smaller primary check, download the 4 archives named in `reuse/expected-
 
 | Asset | Contents and limits |
 | --- | --- |
-| [browser-agent-evaluation.pdf](https://github.com/TejasQ/before-model-escalation/releases/download/evidence-v1/browser-agent-evaluation.pdf) | Submitted v11 manuscript; no peer-review claim |
+| [browser-agent-evaluation.pdf](https://github.com/TejasQ/before-model-escalation/releases/download/evidence-v1/browser-agent-evaluation.pdf) | Earlier v11 manuscript snapshot; current v12 linked above |
 | [browser-agent-paper-source.zip](https://github.com/TejasQ/before-model-escalation/releases/download/evidence-v1/browser-agent-paper-source.zip) | TeX source, figure, tables and derivations |
 | [instruction-control-evidence.zip](https://github.com/TejasQ/before-model-escalation/releases/download/evidence-v1/instruction-control-evidence.zip) | Ministral paired schema/instruction control, including smoke records |
 | [qwen-instruction-control-evidence.zip](https://github.com/TejasQ/before-model-escalation/releases/download/evidence-v1/qwen-instruction-control-evidence.zip) | Separately scheduled Qwen control; transport failures retained |
